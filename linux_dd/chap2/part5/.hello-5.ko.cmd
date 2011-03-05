@@ -1,0 +1,1 @@
+cmd_/home/beagle/maze_project/linux_dd/chap2/part5/hello-5.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.35-25-generic/scripts/module-common.lds --build-id -o /home/beagle/maze_project/linux_dd/chap2/part5/hello-5.ko /home/beagle/maze_project/linux_dd/chap2/part5/hello-5.o /home/beagle/maze_project/linux_dd/chap2/part5/hello-5.mod.o
